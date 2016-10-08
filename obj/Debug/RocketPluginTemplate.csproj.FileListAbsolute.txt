@@ -1,0 +1,11 @@
+c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\bin\Debug\RocketPluginTemplate.dll
+c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\bin\Debug\RocketPluginTemplate.pdb
+c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\bin\Debug\Assembly-CSharp.dll
+c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\bin\Debug\Rocket.API.dll
+c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\bin\Debug\Rocket.Core.dll
+c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\bin\Debug\Rocket.Unturned.dll
+c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\bin\Debug\UnityEngine.dll
+c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\obj\Debug\RocketPluginTemplate.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\obj\Debug\RocketPluginTemplate.dll
+c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\obj\Debug\RocketPluginTemplate.pdb
