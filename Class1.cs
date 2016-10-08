@@ -11,7 +11,6 @@ namespace RocketPluginTemplate
     {
         protected override void Load()
         {
-
         }
 
         protected override void Unload()

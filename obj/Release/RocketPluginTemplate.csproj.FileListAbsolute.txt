@@ -8,3 +8,4 @@ c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketP
 c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\bin\Release\UnityEngine.dll
 c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\obj\Release\RocketPluginTemplate.dll
 c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\obj\Release\RocketPluginTemplate.pdb
+c:\users\alex\documents\visual studio 2015\Projects\RocketPluginTemplate\RocketPluginTemplate\obj\Release\RocketPluginTemplate.csprojResolveAssemblyReference.cache
