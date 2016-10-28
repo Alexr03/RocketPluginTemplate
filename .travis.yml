@@ -3,3 +3,5 @@ solution: RocketPluginTemplate.sln
 cache: bundler
 script:
   - xbuild /p:Configuration=Debug RocketPluginTemplate.sln
+after_success:
+  - upload.sh
