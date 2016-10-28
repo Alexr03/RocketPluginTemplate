@@ -1,5 +1,3 @@
-cd /home/travis/build/alexr03/RocketPluginTemplate/
-
 #!/bin/sh
 HOST='ftp.solarsentinels.co.uk/public_html/'
 USER='solar'
