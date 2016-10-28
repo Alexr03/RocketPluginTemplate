@@ -1,0 +1,4 @@
+language: csharp
+solution: RocketPluginTemplate.sln
+script:
+  - xbuild /p:Configuration=Debug RocketPluginTemplate.sln
